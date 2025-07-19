@@ -1,0 +1,4 @@
+com\agrocomercial\agrocliente\dominio\Entidades\Persona.class
+com\agrocomercial\agrocliente\Main.class
+com\agrocomercial\agrocliente\dominio\Entidades\EntidadBase.class
+com\agrocomercial\agrocliente\dominio\Entidades\TipoDocumento.class
